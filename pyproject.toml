@@ -3,8 +3,7 @@ name = "snowflake"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
-authors = [
-    { name = "shreyapandekar", email = "pandekarshreya@gmail.com" }
+
 ]
 requires-python = ">=3.11"
 dependencies = [
